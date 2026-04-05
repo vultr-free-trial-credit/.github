@@ -28,19 +28,19 @@ This makes Vultr's free trial one of the most practical ways to genuinely evalua
 
 ## How Much Free Credit Can You Get?
 
-Vultr currently offers three main promotional options for new accounts in 2026:
+Vultr currently offers three main promos for new accounts in 2026:
 
-### Option 1: $300 Free Credit (Best for Short-Term Testing)
+### Option 1: $300 Free Trial (Best for Short-Term Testing)
 - **Credit amount:** $300
 - **Validity:** 30 days from the time of activation
 - **Best for:** People who want to stress-test Vultr's high-end services like GPU compute, Bare Metal, or High Frequency instances quickly
-- **Payment required:** Yes - a valid credit card or PayPal is needed to activate
+- **Payment method required:** Yes - a valid credit card or PayPal is needed to activate
 
 ### Option 2: $250 Free Credit
 - **Credit amount:** $250
 - **Validity:** 30 days
 - **Best for:** General exploration of Vultr's cloud compute, storage, and networking features
-- **Payment required:** Yes
+- **Payment method required:** Yes
 
 ### Option 3: $100 Deposit Match (Best for Long-Term Use)
 - **Credit amount:** Up to $100 matched credit (deposit $100, get $100 free = $200 total)
