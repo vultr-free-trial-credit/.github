@@ -1,6 +1,6 @@
 # Vultr Free Trial 2026: How to Get $300 Free Credits (Step-by-Step Guide)
 
-Want to try Vultr for free? Get up to $300 in free credits with Vultr's free trial offer. This step-by-step guide shows you exactly how to claim them, what you can do with them, and how to make the most of every dollar — all tested and verified.
+Want to try Vultr for free? Get up to $300 in free credits with Vultr's free trial offer. This step-by-step guide shows you exactly how to claim them, what you can do with them, and how to make the most of every dollar. It also includes promo codes and coupons. All tested and verified.
 
 ---
 
