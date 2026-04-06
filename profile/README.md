@@ -276,32 +276,6 @@ Entering a promo code takes about 10 seconds. Here is exactly where to do it:
 
 If the credit appears automatically without entering a code (which happens when you sign up via a promo link), you do not need to enter a code separately.
 
-
-### Other Ways to Get Vultr Discounts
-
-Promo codes are not the only way to save on Vultr. Here are the other discount programs worth knowing about:
-
-**Twitter Credits (+$3)**
-You can earn an additional $3 in account credits by following Vultr on Twitter and tweeting about them. Small amount, but it takes about two minutes.
-
-**GitHub Education Pack (Students)**
-If you are a student with an active GitHub Education account, you can access Vultr credits through the GitHub Student Developer Pack. This typically provides between $50 and $100 in cloud credit depending on current program terms. You need to verify your student status through GitHub Education before the credit activates on your Vultr account.
-
-**VIP Startup Program**
-Vultr runs a program specifically for early-stage startups that can award up to $100,000 in free cloud credits to eligible applicants. This is for businesses that are actively building products and need serious infrastructure support, not just casual testing. If you are a startup founder, it is worth looking into before you pay for cloud resources.
-
-**Seasonal Sales (Black Friday and Cyber Monday)**
-Vultr typically runs promotions during the Black Friday and Cyber Monday period in November. These deals have historically included credit matching offers and free credit bonuses for new customers. If your timeline is flexible, waiting for these sales can be worth it.
-
-### Tips for Getting the Most Out of Vultr Promo Codes
-
-A few things that beginners often get wrong when redeeming Vultr codes:
-
-- **Apply the code before adding payment info.** The promo code field appears before the payment section on the billing page. Enter your code first, confirm it shows the credit, then proceed to add your card.
-- **Check that the credit actually applied.** After entering the code, look at the summary section and confirm the credit amount is displayed. Do not assume it worked without checking.
-- **Do not try to stack codes.** Vultr allows only one promo code per account. Entering a second code will not add more credit - it will either be ignored or replace the first one.
-- **Use the official Vultr coupons page.** Third-party sites often list outdated codes. The most reliable source is vultr.com/coupons, which Vultr updates directly.
-
 ---
 
 ## Vultr vs. Competitors: How Does the Free Trial Compare?
@@ -358,9 +332,6 @@ When you deposit $100 using the VULTRMATCH code on a new account, Vultr adds a m
 
 ### Does Vultr have a student discount?
 Students with an active GitHub Education account can access Vultr credits through the GitHub Student Developer Pack, typically worth $50 to $100 in cloud credit. Vultr does not currently offer a separate student discount outside of this program.
-
-### Does Vultr have a referral program?
-Yes. Every Vultr account has a unique referral link in the customer portal. When someone signs up through your link and remains an active paying customer for more than 30 days, you earn a referral bonus payout. Payments are processed twice a month.
 
 ### What is the Vultr VIP Startup Program?
 The Vultr VIP Startup Program offers up to $100,000 in free cloud credits to eligible early-stage startups. It is designed for businesses actively building products on cloud infrastructure, not for personal testing. Startups interested in the program can apply through Vultr's website.
