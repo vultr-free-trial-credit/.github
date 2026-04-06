@@ -35,6 +35,7 @@ Vultr currently offers three main promos for new accounts in 2026:
 - **Validity:** 30 days from the time of activation
 - **Best for:** People who want to stress-test Vultr's high-end services like GPU compute, Bare Metal, or High Frequency instances quickly
 - **Payment method required:** Yes - a valid credit card or PayPal is needed to activate
+<img width="655" height="615" alt="Screenshot (16)" src="https://github.com/user-attachments/assets/b75a370c-cc20-4f83-a120-c7a1109ea0d5" />
 
 ### Option 2: $250 Free Credit
 - **Credit amount:** $250
