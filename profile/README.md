@@ -276,13 +276,6 @@ Entering a promo code takes about 10 seconds. Here is exactly where to do it:
 
 If the credit appears automatically without entering a code (which happens when you sign up via a promo link), you do not need to enter a code separately.
 
-### How the VULTRMATCH Deposit Code Works
-
-The VULTRMATCH code is the most misunderstood Vultr offer, so it is worth explaining clearly.
-
-When you deposit $100 into a new Vultr account using this code, Vultr adds another $100 as a credit - giving you $200 total to work with. The key detail most people miss is how the credit gets applied: Vultr uses a **50/50 split** on your hourly bills. So if you accrue $10 in charges, $5 comes from your promotional credit and $5 from your real deposited funds. This means your matched credit and your deposit both last twice as long as either would alone.
-
-The matched credit expires 12 months after it is issued - which makes this the best long-term option if you plan to actually run projects on Vultr beyond a one-month test.
 
 ### Other Ways to Get Vultr Discounts
 
@@ -290,9 +283,6 @@ Promo codes are not the only way to save on Vultr. Here are the other discount p
 
 **Twitter Credits (+$3)**
 You can earn an additional $3 in account credits by following Vultr on Twitter and tweeting about them. Small amount, but it takes about two minutes.
-
-**Referral Program**
-Vultr has a referral system built into every account. Once you sign up, you get a unique referral link in your dashboard. Share it with friends - when someone signs up and becomes an active paying customer (after 30 days), both you and the referred user earn bonus credits. Payouts are processed twice a month (on the 1st and 15th of each month).
 
 **GitHub Education Pack (Students)**
 If you are a student with an active GitHub Education account, you can access Vultr credits through the GitHub Student Developer Pack. This typically provides between $50 and $100 in cloud credit depending on current program terms. You need to verify your student status through GitHub Education before the credit activates on your Vultr account.
